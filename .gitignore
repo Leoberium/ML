@@ -1,0 +1,7 @@
+# Folders
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Files
+**.csv
+**.zip
