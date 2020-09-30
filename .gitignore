@@ -1,7 +1,7 @@
 # Folders
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-*./__pycache__/*
+*/__pycache__/*
 
 # Files
 **.csv
@@ -9,3 +9,5 @@
 **.pdf
 **.Rhistory
 **.txt
+**.svg
+**.png
